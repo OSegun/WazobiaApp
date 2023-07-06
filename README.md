@@ -35,7 +35,7 @@ To set up Wazobia on your local machine, please follow these steps:
 1. Clone the Wazobia repository from GitHub:
 
    ```
-   git clone 
+   git clone https://github.com/OSegun/WazobiaApp.git
    ```
 
 2. Create a new virtual environment:
@@ -62,7 +62,7 @@ To set up Wazobia on your local machine, please follow these steps:
 3. Navigate to the project directory:
 
    ```
-   cd 
+   cd WazobiaApp
    ```
 
 4. Install the required Python dependencies:
@@ -77,7 +77,7 @@ To set up Wazobia on your local machine, please follow these steps:
    uvicorn wazobia_fastapi:app --reload
    ```
 
-6. Access the application in your web browser at `http://localhost:8501`.
+6. Access the application in your web browser at `http://localhost:8000`.
 
 Note: Please ensure that you have a stable internet connection, as Wazobia relies on the text-davinci-003 model provided by OpenAI, which requires an internet connection to function.
 
