@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Welcome to Wazobia - The Nigerian Translator! Wazobia is an AI-powered application that allows users to easily translate text from one Nigerian language to another. With the integration of Langchain and FastAPI frameworks, Wazobia offers a seamless and intuitive user experience.
+Welcome to Wazobia - The [Nigerian Translator!](https://docs.google.com/presentation/d/1fVgpqU4NQWJkHIPUE7ZCd-LGiOpJSPDimoeT2pCkZpM/edit#slide=id.gc6fa3c898_0_0) Wazobia is an AI-powered application that allows users to easily translate text from one Nigerian language to another. With the integration of Langchain and FastAPI frameworks, Wazobia offers a seamless and intuitive user experience.
 ![LangChain](/langchain_open_ai.jpg)
 ## Features
 
