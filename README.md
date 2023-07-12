@@ -1,11 +1,13 @@
-# Wazobia - The Nigerian Translator
+# [Wazobia - The Nigerian Translator](https://medium.com/@odusinaoluwasegun/wazobiaapp-building-the-nigerian-translator-application-with-langchain-and-streamlit-27ba77f959ea)
 
 ![Wazobia Logo](static/wazo.png)
 
 ## Introduction
 
 Welcome to Wazobia - The [Nigerian Translator!](https://docs.google.com/presentation/d/1fVgpqU4NQWJkHIPUE7ZCd-LGiOpJSPDimoeT2pCkZpM/edit#slide=id.gc6fa3c898_0_0) Wazobia is an AI-powered application that allows users to easily translate text from one Nigerian language to another. With the integration of Langchain and FastAPI frameworks, Wazobia offers a seamless and intuitive user experience.
+
 ![LangChain](/langchain_open_ai.jpg)
+
 ## Features
 
 Wazobia comes packed with the following features:
